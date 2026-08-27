@@ -1,0 +1,6 @@
+{
+  "name": "CineStream MLWBD - Movie & Web Series Streaming Catalog",
+  "description": "Netflix-style movie and web series catalog, streaming directory, TMDB importer, multi-server embed player, download manager and admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
